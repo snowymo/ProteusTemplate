@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{567B02E9-4D5C-A04C-3FFA-CEAF75A048FC}",
+	"EngineAssociation": "{BCD4E898-41A5-DE90-41D3-E792131C0597}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -43,8 +43,8 @@
 			]
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
+			"Name": "SteamVR",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
